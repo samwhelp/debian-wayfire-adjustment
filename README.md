@@ -23,11 +23,8 @@
 
 | Script |
 | ------ |
-| [Wayfire Config](https://github.com/samwhelp/debian-wayfire-adjustment/tree/main/prototype/main/wayfire-config) |
-
-| Wayfire Config |
-| -------------- |
-| [Main](https://github.com/samwhelp/debian-wayfire-adjustment/tree/main/prototype/main/wayfire-config/part/Main) |
+| [Wayfire Config](https://github.com/samwhelp/debian-wayfire-adjustment/tree/main/prototype/main/wayfire-config/part/Main) |
+| [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
